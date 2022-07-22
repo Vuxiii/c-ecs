@@ -1,1 +1,1 @@
-# WIP solition for ecs in c++
+# WIP solution for ecs in c++
